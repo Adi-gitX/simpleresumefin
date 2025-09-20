@@ -4,7 +4,7 @@
   "description": "Portfolio website for Adithya Kammati",
   "main": "index.html",
   "scripts": {
-    "deploy": "wrangler pages deploy . --project-name=adithya-resume",
+    "deploy": "wrangler pages deploy .",
     "dev": "wrangler pages dev ."
   },
   "keywords": ["resume", "portfolio", "cloudflare-pages"],
