@@ -1,0 +1,13 @@
+{
+  "name": "adithya-resume",
+  "version": "1.0.0",
+  "description": "Portfolio website for Adithya Kammati",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "wrangler pages deploy . --project-name=adithya-resume",
+    "dev": "wrangler pages dev ."
+  },
+  "keywords": ["resume", "portfolio", "cloudflare-pages"],
+  "author": "Adithya Kammati",
+  "license": "MIT"
+}
